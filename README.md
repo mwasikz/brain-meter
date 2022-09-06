@@ -15,3 +15,8 @@
 #### Result
 
 ![Result](https://user-images.githubusercontent.com/74035623/172040114-a8dc79c1-d8f8-48f1-b5a7-0c8d8945779b.png)
+
+### :orange_circle: Features
+- This app uses the Open Trivia API to fetch quizes.
+- Homepage contains the quiz settings such as user name, category and quiz difficulty level selection.
+- When user selects the right answer the button turns green and user selects the wrong answer the buttons turns red.
