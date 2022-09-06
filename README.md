@@ -20,3 +20,9 @@
 - This app uses the Open Trivia API to fetch quizes.
 - Homepage contains the quiz settings such as user name, category and quiz difficulty level selection.
 - When user selects the right answer the button turns green and user selects the wrong answer the buttons turns red.
+- Final score is shown after ten questions.
+
+### :orange_circle: How to Run
+- Clone this repository by `git clone https://github.com/mwasikz/brain-meter.git `
+- Install the dependencies using `npm install`
+- Run `npm start`
