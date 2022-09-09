@@ -1,4 +1,4 @@
-## Brain Meter | Quiz Application
+## Brain Meter | React JS Quiz Application
 ### :orange_circle: Pages
 #### Homepage
 
